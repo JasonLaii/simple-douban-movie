@@ -97,6 +97,7 @@
 </template>
 <script>
 export default {
+  name: 'movieDetails',
   data() {
     return {};
   },

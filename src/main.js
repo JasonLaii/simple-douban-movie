@@ -16,6 +16,7 @@ Vue.use(element)
 // })
 
 Vue.prototype.$axios = axios;
+
 new Vue({
   render: h => h(App),
   router,

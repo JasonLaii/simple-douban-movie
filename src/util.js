@@ -1,4 +1,3 @@
-import { reject } from "q";
 import Vue from 'vue'
 
 let vm = new Vue()

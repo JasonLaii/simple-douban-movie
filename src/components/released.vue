@@ -73,6 +73,8 @@ export default {
   }
 };
 </script>
+
+
 <style scoped>
 .released {
   margin: 0 auto;
